@@ -1,12 +1,12 @@
 <h1 align="center">Hola👋, soy Evelin</h1>
 <p align="center">Una nueva aventurera en el mundo del diseño y desarrollo web</p>
 
-<p align="center">Actualmente sigo desarrollandome🌱 y disfrutando el camino del aprendizaje</p>
+<p align="center">Actualmente sigo desarrollándome 🌱 y disfrutando el camino del aprendizaje</p>
 
 <br>
 
-- Actualmente aprendiendo por fuenta propia desarrollo web
-- Pagina personal [link](https://evelinrivera.com)
+- Actualmente aprendiendo por cuenta propia desarrollo web
+- Página personal [link](https://evelinrivera.com)
 - Abierta a asumir nuevos retos
 
 <hr>
