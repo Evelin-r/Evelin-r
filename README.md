@@ -5,7 +5,6 @@
 
 <br>
 
-- Actualmente aprendiendo por cuenta propia desarrollo web
 - Página personal [link](https://evelinrivera.com)
 - Abierta a asumir nuevos retos
 
