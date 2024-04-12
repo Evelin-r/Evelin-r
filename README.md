@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋, soy Evelin</h1>
 <p align="center">Una nueva aventurera en el mundo del diseño y desarrollo web</p>
 
-<p align="center">Actualmente sigo desarrollándome 🌱 y disfrutando el camino del aprendizaje</p>
+<p align="center">Actualmente sigo desarrollándome 🌱 y disfrutando el camino del aprendizaje en <strong>42 Madrid</strong></p>
 
 <br>
 
