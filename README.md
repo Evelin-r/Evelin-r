@@ -6,7 +6,7 @@
 
 <br>
 
-- Página personal [link](https://evelinrivera.com)
+- Página personal [link](https://evelinrivera.es)
 <!---
 - **Extras**:
 
